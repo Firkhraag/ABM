@@ -312,43 +312,44 @@ municipalities = {
          [37.51166, 55.67973]],
 
     45268569000:
-        [[37.3261, 55.68286], [37.32909, 55.6855], [37.32924, 55.68562], [37.32971, 55.68545], [37.32874, 55.68461],
-         [37.32871, 55.68447], [37.32685, 55.68295], [37.33095, 55.68154], [37.33247, 55.68291],
-         [37.33405, 55.68203],
-         [37.33487, 55.68248], [37.33356, 55.68325], [37.33395, 55.68394], [37.334, 55.68409], [37.33393, 55.68422],
-         [37.33372, 55.68433], [37.32943, 55.68579], [37.33075, 55.68704], [37.33065, 55.68707],
-         [37.33349, 55.68968],
-         [37.33385, 55.68956], [37.33546, 55.69103], [37.33796, 55.69331], [37.33863, 55.69252],
-         [37.33865, 55.69132],
-         [37.33789, 55.69], [37.33802, 55.68964], [37.33873, 55.68876], [37.33874, 55.6887], [37.3387, 55.6887],
-         [37.33871, 55.68867], [37.33876, 55.68774], [37.33891, 55.68765], [37.33892, 55.68731],
-         [37.33926, 55.68734],
-         [37.33926, 55.68775], [37.33971, 55.68795], [37.33987, 55.68818], [37.34199, 55.68855],
-         [37.34199, 55.68863],
-         [37.34246, 55.68867], [37.34238, 55.68901], [37.34264, 55.68909], [37.34335, 55.68913],
-         [37.34387, 55.68918],
-         [37.34392, 55.68935], [37.34375, 55.68954], [37.34388, 55.69059], [37.34244, 55.69237],
-         [37.34259, 55.69386],
-         [37.34289, 55.69431], [37.34297, 55.69451], [37.34357, 55.69603], [37.3447, 55.69788],
-         [37.34509, 55.69827],
-         [37.34733, 55.6976], [37.3518, 55.70006], [37.35165, 55.70179], [37.35152, 55.70185], [37.35156, 55.70224],
-         [37.35605, 55.70468], [37.35637, 55.70453], [37.35399, 55.70309], [37.3541, 55.70228],
-         [37.35314, 55.70172],
-         [37.35334, 55.70035], [37.35563, 55.70044], [37.35571, 55.69938], [37.3575, 55.69943], [37.35764, 55.6985],
-         [37.36166, 55.69865], [37.36143, 55.70051], [37.36325, 55.70057], [37.36332, 55.70173],
-         [37.36348, 55.70173],
-         [37.36348, 55.70145], [37.36444, 55.70076], [37.36563, 55.70081], [37.36562, 55.70117],
-         [37.3654, 55.70137],
-         [37.36522, 55.70138], [37.36483, 55.70174], [37.36535, 55.70175], [37.3656, 55.70189], [37.36592, 55.7024],
-         [37.36599, 55.70279], [37.36645, 55.70294], [37.36669, 55.70199], [37.36912, 55.70235],
-         [37.36839, 55.70416],
-         [37.36616, 55.707], [37.36894, 55.70741], [37.3692, 55.7084], [37.36844, 55.70845], [37.36835, 55.70822],
-         [37.36755, 55.70821], [37.36741, 55.70802], [37.36504, 55.70805], [37.36413, 55.70882],
-         [37.36944, 55.71036],
-         [37.37192, 55.71083], [37.37556, 55.71142], [37.37611, 55.71062], [37.37662, 55.7106],
-         [37.37745, 55.70929],
-         [37.37747, 55.70875], [37.37763, 55.70402], [37.3779, 55.69693], [37.38201, 55.69854],
-         [37.38545, 55.69697],
+        [
+         #    [37.3261, 55.68286], [37.32909, 55.6855], [37.32924, 55.68562], [37.32971, 55.68545], [37.32874, 55.68461],
+         # [37.32871, 55.68447], [37.32685, 55.68295], [37.33095, 55.68154], [37.33247, 55.68291],
+         # [37.33405, 55.68203],
+         # [37.33487, 55.68248], [37.33356, 55.68325], [37.33395, 55.68394], [37.334, 55.68409], [37.33393, 55.68422],
+         # [37.33372, 55.68433], [37.32943, 55.68579], [37.33075, 55.68704], [37.33065, 55.68707],
+         # [37.33349, 55.68968],
+         # [37.33385, 55.68956], [37.33546, 55.69103], [37.33796, 55.69331], [37.33863, 55.69252],
+         # [37.33865, 55.69132],
+         # [37.33789, 55.69], [37.33802, 55.68964], [37.33873, 55.68876], [37.33874, 55.6887], [37.3387, 55.6887],
+         # [37.33871, 55.68867], [37.33876, 55.68774], [37.33891, 55.68765], [37.33892, 55.68731],
+         # [37.33926, 55.68734],
+         # [37.33926, 55.68775], [37.33971, 55.68795], [37.33987, 55.68818], [37.34199, 55.68855],
+         # [37.34199, 55.68863],
+         # [37.34246, 55.68867], [37.34238, 55.68901], [37.34264, 55.68909], [37.34335, 55.68913],
+         # [37.34387, 55.68918],
+         # [37.34392, 55.68935], [37.34375, 55.68954], [37.34388, 55.69059], [37.34244, 55.69237],
+         # [37.34259, 55.69386],
+         # [37.34289, 55.69431], [37.34297, 55.69451], [37.34357, 55.69603], [37.3447, 55.69788],
+         # [37.34509, 55.69827],
+         # [37.34733, 55.6976], [37.3518, 55.70006], [37.35165, 55.70179], [37.35152, 55.70185], [37.35156, 55.70224],
+         # [37.35605, 55.70468], [37.35637, 55.70453], [37.35399, 55.70309], [37.3541, 55.70228],
+         # [37.35314, 55.70172],
+         # [37.35334, 55.70035], [37.35563, 55.70044], [37.35571, 55.69938], [37.3575, 55.69943], [37.35764, 55.6985],
+         # [37.36166, 55.69865], [37.36143, 55.70051], [37.36325, 55.70057], [37.36332, 55.70173],
+         # [37.36348, 55.70173],
+         # [37.36348, 55.70145], [37.36444, 55.70076], [37.36563, 55.70081], [37.36562, 55.70117],
+         # [37.3654, 55.70137],
+         # [37.36522, 55.70138], [37.36483, 55.70174], [37.36535, 55.70175], [37.3656, 55.70189], [37.36592, 55.7024],
+         # [37.36599, 55.70279], [37.36645, 55.70294], [37.36669, 55.70199], [37.36912, 55.70235],
+         # [37.36839, 55.70416],
+         # [37.36616, 55.707], [37.36894, 55.70741], [37.3692, 55.7084], [37.36844, 55.70845], [37.36835, 55.70822],
+         # [37.36755, 55.70821], [37.36741, 55.70802], [37.36504, 55.70805], [37.36413, 55.70882],
+         # [37.36944, 55.71036],
+         # [37.37192, 55.71083], [37.37556, 55.71142], [37.37611, 55.71062], [37.37662, 55.7106],
+         # [37.37745, 55.70929],
+         # [37.37747, 55.70875], [37.37763, 55.70402], [37.3779, 55.69693], [37.38201, 55.69854],
+         # [37.38545, 55.69697],
          [37.38789, 55.6981], [37.38983, 55.69695], [37.39216, 55.69842], [37.38865, 55.70079],
          [37.39048, 55.70244],
          [37.38824, 55.70323], [37.38856, 55.70356], [37.38794, 55.70432], [37.39248, 55.70592], [37.392, 55.70637],
@@ -435,23 +436,24 @@ municipalities = {
          [37.39635, 55.69661], [37.39566, 55.69666], [37.39507, 55.69655], [37.39459, 55.69651],
          [37.39419, 55.69631],
          [37.39381, 55.69612], [37.39341, 55.69603], [37.39387, 55.69507], [37.39356, 55.69483], [37.3902, 55.6969],
-         [37.38412, 55.69394], [37.38389, 55.6937], [37.38383, 55.69355], [37.38349, 55.69337],
-         [37.38308, 55.69332],
-         [37.38279, 55.69326], [37.37828, 55.691], [37.37759, 55.69063], [37.37513, 55.68882], [37.37159, 55.68989],
-         [37.37306, 55.69094], [37.36774, 55.69165], [37.36609, 55.69002], [37.36531, 55.69015],
-         [37.36421, 55.6906],
-         [37.36323, 55.68985], [37.36261, 55.68875], [37.3642, 55.68814], [37.3639, 55.68772], [37.35963, 55.68897],
-         [37.36107, 55.69001], [37.35921, 55.6908], [37.35924, 55.69131], [37.35831, 55.69163], [37.3579, 55.69167],
-         [37.35726, 55.69041], [37.35675, 55.68996], [37.35671, 55.68933], [37.35625, 55.68863],
-         [37.3558, 55.68746],
-         [37.35666, 55.68771], [37.35567, 55.68614], [37.35507, 55.68552], [37.3611, 55.6821], [37.35893, 55.6799],
-         [37.35863, 55.67959], [37.3581, 55.67908], [37.35748, 55.67924], [37.35649, 55.67832],
-         [37.35444, 55.67648],
-         [37.34903, 55.67867], [37.34604, 55.67626], [37.33411, 55.68042], [37.33364, 55.68059],
-         [37.33331, 55.68071],
-         [37.33117, 55.68145], [37.33105, 55.68134], [37.33052, 55.68149], [37.32985, 55.68164],
-         [37.32953, 55.6819],
-         [37.32912, 55.68193], [37.3261, 55.68286]],
+         # [37.38412, 55.69394], [37.38389, 55.6937], [37.38383, 55.69355], [37.38349, 55.69337],
+         # [37.38308, 55.69332],
+         # [37.38279, 55.69326], [37.37828, 55.691], [37.37759, 55.69063], [37.37513, 55.68882], [37.37159, 55.68989],
+         # [37.37306, 55.69094], [37.36774, 55.69165], [37.36609, 55.69002], [37.36531, 55.69015],
+         # [37.36421, 55.6906],
+         # [37.36323, 55.68985], [37.36261, 55.68875], [37.3642, 55.68814], [37.3639, 55.68772], [37.35963, 55.68897],
+         # [37.36107, 55.69001], [37.35921, 55.6908], [37.35924, 55.69131], [37.35831, 55.69163], [37.3579, 55.69167],
+         # [37.35726, 55.69041], [37.35675, 55.68996], [37.35671, 55.68933], [37.35625, 55.68863],
+         # [37.3558, 55.68746],
+         # [37.35666, 55.68771], [37.35567, 55.68614], [37.35507, 55.68552], [37.3611, 55.6821], [37.35893, 55.6799],
+         # [37.35863, 55.67959], [37.3581, 55.67908], [37.35748, 55.67924], [37.35649, 55.67832],
+         # [37.35444, 55.67648],
+         # [37.34903, 55.67867], [37.34604, 55.67626], [37.33411, 55.68042], [37.33364, 55.68059],
+         # [37.33331, 55.68071],
+         # [37.33117, 55.68145], [37.33105, 55.68134], [37.33052, 55.68149], [37.32985, 55.68164],
+         # [37.32953, 55.6819],
+         # [37.32912, 55.68193], [37.3261, 55.68286]
+        ],
 
     45283577000:
         [[37.36726, 55.79036], [37.36784, 55.79136], [37.36807, 55.79132], [37.36831, 55.79128],
@@ -7778,208 +7780,265 @@ municipalities = {
 }
 
 
+num_of_stations = 216  # 232 231
+
+
 def get_metro_coordinates():
     df = pd.read_csv(r'C:\Users\sigla\Desktop\MasterWork\list_of_moscow_metro_stations.csv')
-    return np.array(df[['Longitude', 'Latitude']])
+    metro = np.array(df[['Longitude', 'Latitude']])
+    metro = metro[(metro[:, 0] < bottom_right_gps_coord[0]) & (metro[:, 0] > top_left_gps_coord[0])
+                  & (metro[:, 1] < top_left_gps_coord[1]) & (metro[:, 1] > bottom_right_gps_coord[1])]
+    return metro
 
 
 def get_metro_adjacency_matrix():
     df = pd.read_csv(r'C:\Users\sigla\Desktop\MasterWork\list_of_moscow_metro_stations.csv')
-    metro_adjacency_matrix = np.zeros([232, 232])
-    for i in range(231):
+    metro_adjacency_matrix = np.zeros([num_of_stations, num_of_stations])
+    for i in range(num_of_stations - 1):
         if df.loc[i, 'Line'] == df.loc[i + 1, 'Line']:
             metro_adjacency_matrix[i, i + 1] = 1
             metro_adjacency_matrix[i + 1, i] = 1
-    metro_adjacency_matrix[159, 170] = 1
-    metro_adjacency_matrix[170, 159] = 1
-    metro_adjacency_matrix[201, 231] = 1
-    metro_adjacency_matrix[231, 201] = 1
 
-    metro_adjacency_matrix[3, 210] = 1
-    metro_adjacency_matrix[210, 3] = 1
+    metro_adjacency_matrix[159, 158] = 1
+    metro_adjacency_matrix[158, 157] = 1
+    metro_adjacency_matrix[157, 156] = 1
+    metro_adjacency_matrix[156, 155] = 1
+    metro_adjacency_matrix[155, 154] = 1
+    metro_adjacency_matrix[154, 153] = 1
+    metro_adjacency_matrix[153, 152] = 1
+    metro_adjacency_matrix[152, 151] = 1
+    metro_adjacency_matrix[151, 150] = 1
+    metro_adjacency_matrix[150, 149] = 1
+    metro_adjacency_matrix[149, 148] = 1
 
-    metro_adjacency_matrix[5, 179] = 1
-    metro_adjacency_matrix[179, 5] = 1
+    metro_adjacency_matrix[215, 214] = 1
+    metro_adjacency_matrix[214, 213] = 1
+    metro_adjacency_matrix[213, 212] = 1
+    metro_adjacency_matrix[212, 211] = 1
+    metro_adjacency_matrix[211, 210] = 1
+    metro_adjacency_matrix[210, 209] = 1
+    metro_adjacency_matrix[209, 208] = 1
+    metro_adjacency_matrix[208, 207] = 1
+    metro_adjacency_matrix[207, 206] = 1
+    metro_adjacency_matrix[206, 205] = 1
+    metro_adjacency_matrix[205, 204] = 1
+    metro_adjacency_matrix[204, 203] = 1
+    metro_adjacency_matrix[203, 202] = 1
+    metro_adjacency_matrix[202, 201] = 1
+    metro_adjacency_matrix[201, 200] = 1
+    metro_adjacency_matrix[200, 199] = 1
+    metro_adjacency_matrix[199, 198] = 1
+    metro_adjacency_matrix[198, 197] = 1
+    metro_adjacency_matrix[197, 196] = 1
+    metro_adjacency_matrix[196, 195] = 1
+    metro_adjacency_matrix[195, 194] = 1
+    metro_adjacency_matrix[194, 193] = 1
+    metro_adjacency_matrix[193, 192] = 1
+    metro_adjacency_matrix[192, 191] = 1
+    metro_adjacency_matrix[191, 190] = 1
+    metro_adjacency_matrix[190, 189] = 1
+    metro_adjacency_matrix[189, 188] = 1
+    metro_adjacency_matrix[188, 187] = 1
+    metro_adjacency_matrix[187, 186] = 1
+    metro_adjacency_matrix[186, 185] = 1
 
-    metro_adjacency_matrix[6, 149] = 1
-    metro_adjacency_matrix[149, 6] = 1
-    metro_adjacency_matrix[6, 163] = 1
-    metro_adjacency_matrix[163, 6] = 1
-    metro_adjacency_matrix[149, 163] = 1
-    metro_adjacency_matrix[163, 149] = 1
+    metro_adjacency_matrix[148, 159] = 1
+    metro_adjacency_matrix[159, 148] = 1
+    metro_adjacency_matrix[185, 215] = 1
+    metro_adjacency_matrix[215, 185] = 1
 
-    metro_adjacency_matrix[7, 18] = 1
-    metro_adjacency_matrix[18, 7] = 1
-    metro_adjacency_matrix[7, 41] = 1
-    metro_adjacency_matrix[41, 7] = 1
-    metro_adjacency_matrix[18, 41] = 1
-    metro_adjacency_matrix[41, 18] = 1
+    metro_adjacency_matrix[2, 194] = 1
+    metro_adjacency_matrix[194, 2] = 1
 
-    metro_adjacency_matrix[10, 229] = 1
-    metro_adjacency_matrix[229, 10] = 1
+    metro_adjacency_matrix[4, 168] = 1
+    metro_adjacency_matrix[168, 4] = 1
 
-    metro_adjacency_matrix[14, 170] = 1
-    metro_adjacency_matrix[170, 14] = 1
+    metro_adjacency_matrix[5, 152] = 1
+    metro_adjacency_matrix[152, 5] = 1
+    metro_adjacency_matrix[5, 141] = 1
+    metro_adjacency_matrix[141, 5] = 1
+    metro_adjacency_matrix[141, 152] = 1
+    metro_adjacency_matrix[152, 141] = 1
 
-    metro_adjacency_matrix[16, 146] = 1
-    metro_adjacency_matrix[146, 16] = 1
-    metro_adjacency_matrix[16, 121] = 1
-    metro_adjacency_matrix[121, 16] = 1
-    metro_adjacency_matrix[121, 146] = 1
-    metro_adjacency_matrix[146, 121] = 1
+    metro_adjacency_matrix[6, 17] = 1
+    metro_adjacency_matrix[17, 6] = 1
+    metro_adjacency_matrix[6, 40] = 1
+    metro_adjacency_matrix[40, 6] = 1
+    metro_adjacency_matrix[17, 40] = 1
+    metro_adjacency_matrix[40, 17] = 1
 
-    metro_adjacency_matrix[17, 63] = 1
-    metro_adjacency_matrix[63, 17] = 1
-    metro_adjacency_matrix[17, 84] = 1
-    metro_adjacency_matrix[84, 17] = 1
-    metro_adjacency_matrix[63, 84] = 1
-    metro_adjacency_matrix[84, 63] = 1
+    metro_adjacency_matrix[9, 213] = 1
+    metro_adjacency_matrix[213, 9] = 1
 
-    metro_adjacency_matrix[19, 164] = 1
-    metro_adjacency_matrix[164, 19] = 1
+    metro_adjacency_matrix[13, 159] = 1
+    metro_adjacency_matrix[159, 13] = 1
 
-    metro_adjacency_matrix[20, 216] = 1
-    metro_adjacency_matrix[216, 20] = 1
+    metro_adjacency_matrix[15, 138] = 1
+    metro_adjacency_matrix[138, 15] = 1
+    metro_adjacency_matrix[15, 114] = 1
+    metro_adjacency_matrix[114, 15] = 1
+    metro_adjacency_matrix[114, 138] = 1
+    metro_adjacency_matrix[138, 114] = 1
 
-    metro_adjacency_matrix[23, 191] = 1
-    metro_adjacency_matrix[191, 23] = 1
+    metro_adjacency_matrix[16, 62] = 1
+    metro_adjacency_matrix[62, 16] = 1
+    metro_adjacency_matrix[16, 81] = 1
+    metro_adjacency_matrix[81, 16] = 1
+    metro_adjacency_matrix[62, 81] = 1
+    metro_adjacency_matrix[81, 62] = 1
 
-    metro_adjacency_matrix[28, 190] = 1
-    metro_adjacency_matrix[190, 28] = 1
+    metro_adjacency_matrix[18, 153] = 1
+    metro_adjacency_matrix[153, 18] = 1
 
-    metro_adjacency_matrix[33, 203] = 1
-    metro_adjacency_matrix[203, 33] = 1
+    metro_adjacency_matrix[19, 200] = 1
+    metro_adjacency_matrix[200, 19] = 1
 
-    metro_adjacency_matrix[37, 160] = 1
-    metro_adjacency_matrix[160, 37] = 1
+    metro_adjacency_matrix[22, 181] = 1
+    metro_adjacency_matrix[181, 22] = 1
 
-    metro_adjacency_matrix[39, 61] = 1
-    metro_adjacency_matrix[61, 39] = 1
-    metro_adjacency_matrix[39, 177] = 1
-    metro_adjacency_matrix[177, 39] = 1
-    metro_adjacency_matrix[177, 61] = 1
-    metro_adjacency_matrix[61, 177] = 1
+    metro_adjacency_matrix[27, 179] = 1
+    metro_adjacency_matrix[179, 27] = 1
+    # Correct till here
 
-    metro_adjacency_matrix[40, 148] = 1
-    metro_adjacency_matrix[148, 40] = 1
+    metro_adjacency_matrix[32, 187] = 1
+    metro_adjacency_matrix[187, 32] = 1
 
-    metro_adjacency_matrix[42, 166] = 1
-    metro_adjacency_matrix[166, 42] = 1
+    metro_adjacency_matrix[36, 149] = 1
+    metro_adjacency_matrix[149, 36] = 1
 
-    metro_adjacency_matrix[44, 220] = 1
-    metro_adjacency_matrix[220, 44] = 1
+    metro_adjacency_matrix[38, 60] = 1
+    metro_adjacency_matrix[60, 38] = 1
+    metro_adjacency_matrix[38, 166] = 1
+    metro_adjacency_matrix[166, 38] = 1
+    metro_adjacency_matrix[166, 60] = 1
+    metro_adjacency_matrix[60, 166] = 1
 
-    metro_adjacency_matrix[54, 206] = 1
-    metro_adjacency_matrix[206, 54] = 1
+    metro_adjacency_matrix[39, 140] = 1
+    metro_adjacency_matrix[140, 39] = 1
 
-    metro_adjacency_matrix[55, 207] = 1
-    metro_adjacency_matrix[207, 55] = 1
+    metro_adjacency_matrix[41, 155] = 1
+    metro_adjacency_matrix[155, 41] = 1
 
-    metro_adjacency_matrix[59, 161] = 1
-    metro_adjacency_matrix[161, 59] = 1
+    metro_adjacency_matrix[43, 204] = 1
+    metro_adjacency_matrix[204, 43] = 1
 
-    metro_adjacency_matrix[62, 147] = 1
-    metro_adjacency_matrix[147, 62] = 1
+    metro_adjacency_matrix[53, 190] = 1
+    metro_adjacency_matrix[190, 53] = 1
 
-    metro_adjacency_matrix[64, 85] = 1
-    metro_adjacency_matrix[85, 64] = 1
-    metro_adjacency_matrix[64, 122] = 1
-    metro_adjacency_matrix[122, 64] = 1
-    metro_adjacency_matrix[64, 108] = 1
-    metro_adjacency_matrix[108, 64] = 1
-    metro_adjacency_matrix[108, 85] = 1
-    metro_adjacency_matrix[85, 108] = 1
-    metro_adjacency_matrix[122, 85] = 1
-    metro_adjacency_matrix[85, 122] = 1
-    metro_adjacency_matrix[122, 108] = 1
-    metro_adjacency_matrix[108, 122] = 1
+    metro_adjacency_matrix[54, 191] = 1
+    metro_adjacency_matrix[191, 54] = 1
 
-    metro_adjacency_matrix[66, 167] = 1
-    metro_adjacency_matrix[167, 66] = 1
+    metro_adjacency_matrix[58, 150] = 1
+    metro_adjacency_matrix[150, 58] = 1
 
-    metro_adjacency_matrix[68, 221] = 1
-    metro_adjacency_matrix[221, 68] = 1
+    metro_adjacency_matrix[61, 139] = 1
+    metro_adjacency_matrix[139, 61] = 1
 
-    metro_adjacency_matrix[79, 208] = 1
-    metro_adjacency_matrix[208, 79] = 1
+    metro_adjacency_matrix[63, 82] = 1
+    metro_adjacency_matrix[82, 63] = 1
+    metro_adjacency_matrix[63, 115] = 1
+    metro_adjacency_matrix[115, 63] = 1
+    metro_adjacency_matrix[63, 101] = 1
+    metro_adjacency_matrix[101, 63] = 1
+    metro_adjacency_matrix[101, 82] = 1
+    metro_adjacency_matrix[82, 101] = 1
+    metro_adjacency_matrix[115, 82] = 1
+    metro_adjacency_matrix[82, 115] = 1
+    metro_adjacency_matrix[115, 101] = 1
+    metro_adjacency_matrix[101, 115] = 1
 
-    metro_adjacency_matrix[83, 162] = 1
-    metro_adjacency_matrix[162, 83] = 1
-    metro_adjacency_matrix[83, 178] = 1
-    metro_adjacency_matrix[178, 83] = 1
-    metro_adjacency_matrix[178, 162] = 1
-    metro_adjacency_matrix[162, 178] = 1
+    metro_adjacency_matrix[65, 156] = 1
+    metro_adjacency_matrix[156, 65] = 1
 
-    metro_adjacency_matrix[87, 168] = 1
-    metro_adjacency_matrix[168, 84] = 1
-    metro_adjacency_matrix[87, 105] = 1
-    metro_adjacency_matrix[105, 84] = 1
-    metro_adjacency_matrix[105, 168] = 1
-    metro_adjacency_matrix[168, 105] = 1
+    metro_adjacency_matrix[67, 205] = 1
+    metro_adjacency_matrix[205, 67] = 1
 
-    metro_adjacency_matrix[90, 98] = 1
-    metro_adjacency_matrix[98, 90] = 1
+    metro_adjacency_matrix[76, 192] = 1
+    metro_adjacency_matrix[192, 76] = 1
 
-    metro_adjacency_matrix[103, 222] = 1
-    metro_adjacency_matrix[168, 222] = 1
+    metro_adjacency_matrix[80, 151] = 1
+    metro_adjacency_matrix[151, 80] = 1
+    metro_adjacency_matrix[80, 167] = 1
+    metro_adjacency_matrix[167, 80] = 1
+    metro_adjacency_matrix[167, 151] = 1
+    metro_adjacency_matrix[151, 167] = 1
 
-    metro_adjacency_matrix[108, 109] = 0
-    metro_adjacency_matrix[109, 108] = 0
-    metro_adjacency_matrix[105, 109] = 1
-    metro_adjacency_matrix[109, 105] = 1
+    metro_adjacency_matrix[84, 157] = 1
+    metro_adjacency_matrix[157, 84] = 1
+    metro_adjacency_matrix[84, 98] = 1
+    metro_adjacency_matrix[98, 84] = 1
+    metro_adjacency_matrix[98, 157] = 1
+    metro_adjacency_matrix[157, 98] = 1
 
-    metro_adjacency_matrix[110, 223] = 1
-    metro_adjacency_matrix[223, 110] = 1
+    metro_adjacency_matrix[87, 91] = 1
+    metro_adjacency_matrix[91, 87] = 1
 
-    metro_adjacency_matrix[114, 202] = 1
-    metro_adjacency_matrix[202, 114] = 1
+    metro_adjacency_matrix[96, 206] = 1
+    metro_adjacency_matrix[206, 96] = 1
 
-    metro_adjacency_matrix[115, 171] = 1
-    metro_adjacency_matrix[171, 115] = 1
+    metro_adjacency_matrix[101, 102] = 0
+    metro_adjacency_matrix[102, 101] = 0
+    metro_adjacency_matrix[98, 102] = 1
+    metro_adjacency_matrix[102, 98] = 1
 
-    metro_adjacency_matrix[119, 159] = 1
-    metro_adjacency_matrix[159, 119] = 1
+    metro_adjacency_matrix[103, 207] = 1
+    metro_adjacency_matrix[207, 103] = 1
 
-    metro_adjacency_matrix[120, 176] = 1
-    metro_adjacency_matrix[176, 120] = 1
+    metro_adjacency_matrix[107, 186] = 1
+    metro_adjacency_matrix[186, 107] = 1
 
-    metro_adjacency_matrix[124, 165] = 1
-    metro_adjacency_matrix[165, 124] = 1
+    metro_adjacency_matrix[108, 160] = 1
+    metro_adjacency_matrix[160, 108] = 1
 
-    metro_adjacency_matrix[126, 218] = 1
-    metro_adjacency_matrix[218, 126] = 1
+    metro_adjacency_matrix[112, 148] = 1
+    metro_adjacency_matrix[148, 112] = 1
 
-    metro_adjacency_matrix[141, 227] = 1
-    metro_adjacency_matrix[227, 141] = 1
+    metro_adjacency_matrix[113, 165] = 1
+    metro_adjacency_matrix[165, 113] = 1
 
-    metro_adjacency_matrix[142, 225] = 1
-    metro_adjacency_matrix[225, 142] = 1
+    metro_adjacency_matrix[117, 154] = 1
+    metro_adjacency_matrix[154, 117] = 1
 
-    metro_adjacency_matrix[145, 169] = 1
-    metro_adjacency_matrix[169, 145] = 1
+    metro_adjacency_matrix[119, 202] = 1
+    metro_adjacency_matrix[202, 119] = 1
 
-    metro_adjacency_matrix[150, 180] = 1
-    metro_adjacency_matrix[180, 150] = 1
+    metro_adjacency_matrix[122, 182] = 1
+    metro_adjacency_matrix[182, 122] = 1
 
-    metro_adjacency_matrix[181, 215] = 1
-    metro_adjacency_matrix[215, 181] = 1
+    metro_adjacency_matrix[133, 211] = 1
+    metro_adjacency_matrix[211, 133] = 1
 
-    metro_adjacency_matrix[198, 135] = 1
-    metro_adjacency_matrix[135, 198] = 1
+    metro_adjacency_matrix[134, 209] = 1
+    metro_adjacency_matrix[209, 134] = 1
 
-    metro_adjacency_matrix[200, 53] = 1
-    metro_adjacency_matrix[53, 200] = 1
+    metro_adjacency_matrix[137, 158] = 1
+    metro_adjacency_matrix[158, 137] = 1
+
+    # metro_adjacency_matrix[148, 178] = 1
+    # metro_adjacency_matrix[178, 148] = 1
+
+    metro_adjacency_matrix[142, 169] = 1
+    metro_adjacency_matrix[169, 142] = 1
+
+    metro_adjacency_matrix[170, 199] = 1
+    metro_adjacency_matrix[199, 170] = 1
+
+    metro_adjacency_matrix[184, 52] = 1
+    metro_adjacency_matrix[52, 184] = 1
 
     return metro_adjacency_matrix
 
-    # np.savetxt(r"C:\Users\sigla\Desktop\MasterWork\foo.csv", metro_adjacency_matrix, delimiter=",")
+    # np.savetxt(r"C:\Users\sigla\Desktop\MasterWork\MetroAdjacencyMatrix.csv", metro_adjacency_matrix, delimiter=",")
 
+
+top_left_gps_coord = [37.36526, 55.91366]
+bottom_right_gps_coord = [37.86479, 55.56637]
 
 # top_left_gps_coord = [37.2905, 55.91366]
 # bottom_right_gps_coord = [37.86479, 55.56637]
 
-top_left_gps_coord = [37.3261, 55.91366]
-bottom_right_gps_coord = [37.86479, 55.56637]
+# top_left_gps_coord = [37.3261, 55.91366]
+# bottom_right_gps_coord = [37.86479, 55.56637]
 
 # bottom_right_gps_coord = [37.864052, 55.537977]
 
@@ -8006,15 +8065,14 @@ def save_home_coordinates():
     if len(ind_to_drop) > 0:
         df = df.drop(ind_to_drop)
     df = df.drop_duplicates(subset=['XLON', 'YLAT'], keep='last')
-    df_okato = df['OKATO']
-    df = df[['XLON', 'YLAT']]
+    df = df[['XLON', 'YLAT', 'OKATO']]
     df.to_csv(r'C:\Users\sigla\Desktop\MasterWork\HomeCoordinates.csv')
-    df_okato.to_csv(r'C:\Users\sigla\Desktop\MasterWork\HomeOkato.csv')
 
 
-def get_home_coordinates():
+def get_home_coordinates(current_okato):
     df = pd.read_csv(r'C:\Users\sigla\Desktop\MasterWork\HomeCoordinates.csv')
     df = df.drop('id', axis=1)
+    df = df[df['OKATO'] == current_okato]
     return np.array(df[['XLON', 'YLAT']])
 
 
@@ -8023,6 +8081,8 @@ def gps_to_xy(gps_coord, top_left_gps_coord, bottom_right_gps_coord, width, heig
         (gps_coord[1] - top_left_gps_coord[1]) / (bottom_right_gps_coord[1] - top_left_gps_coord[1]) * width))
     y = int(np.abs(
         (gps_coord[0] - top_left_gps_coord[0]) / (bottom_right_gps_coord[0] - top_left_gps_coord[0]) * height))
+    # if y > 500:
+    #     print('POLLLUNDERaa', gps_coord[0], gps_coord[1])
     return np.array((x, y))
 
 
@@ -8083,9 +8143,14 @@ def get_closest_metro_stations_to_homes():
 
 
 def get_schools():
-    schools = read_osm(r'C:\Users\sigla\Desktop\MasterWork\osm\565.osm')
-    schools[(schools[:, 0] < bottom_right_gps_coord[0]) & (schools[:, 0] > top_left_gps_coord[0])
-            & (schools[:, 1] < top_left_gps_coord[1]) & (schools[:, 1] > bottom_right_gps_coord[1])]
+    # print('Schools')
+    # schools = read_osm(r'C:\Users\sigla\Desktop\MasterWork\osm\565.osm')
+    # schools = schools[(schools[:, 0] < bottom_right_gps_coord[0]) & (schools[:, 0] > top_left_gps_coord[0])
+    #         & (schools[:, 1] < top_left_gps_coord[1]) & (schools[:, 1] > bottom_right_gps_coord[1])]
+    # pd.DataFrame(schools).to_csv(r"C:\Users\sigla\Desktop\MasterWork\Schools.csv")
+    schools = pd.read_csv(r"C:\Users\sigla\Desktop\MasterWork\Schools.csv", index_col=0).values
+    schools = schools[(schools[:, 0] < bottom_right_gps_coord[0]) & (schools[:, 0] > top_left_gps_coord[0])
+                      & (schools[:, 1] < top_left_gps_coord[1]) & (schools[:, 1] > bottom_right_gps_coord[1])]
     return schools
 
 
@@ -8107,15 +8172,37 @@ def find_closest_station_to_each_school():
     pd.Series(metro_indexes).to_csv(r'C:\Users\sigla\Desktop\MasterWork\SchoolMetroIndexes.csv')
 
 
+def find_closest_school_to_each_home(current_okato):
+    home_coordinates = get_home_coordinates(current_okato)
+    school_coordinates = get_schools()
+    school_indexes = []
+    for home in home_coordinates:
+        min_norm = 99999
+        k = 0
+        min_dist_index = 0
+        for school in school_coordinates:
+            n = get_distance_from_lat_lon(school[0], school[1], home[0], home[1])
+            #    np.sqrt((home[0] - coord[0])**2 + (home[1] - coord[1])**2)
+            if n < min_norm:
+                min_norm = n
+                min_dist_index = k
+            k += 1
+        school_indexes.append(min_dist_index)
+    return np.array(school_indexes)
+
+
 def get_closest_metro_stations_to_schools():
     df = pd.read_csv(r'C:\Users\sigla\Desktop\MasterWork\SchoolMetroIndexes.csv', header=None, index_col=0)
     return np.array(df).flatten()
 
 
 def get_universities():
-    universities = read_osm(r'C:\Users\sigla\Desktop\MasterWork\osm\537.osm')
-    universities[(universities[:, 0] < bottom_right_gps_coord[0]) & (universities[:, 0] > top_left_gps_coord[0])
-                 & (universities[:, 1] < top_left_gps_coord[1]) & (universities[:, 1] > bottom_right_gps_coord[1])]
+    # print('Universities')
+    # universities = read_osm(r'C:\Users\sigla\Desktop\MasterWork\osm\537.osm')
+    # universities = universities[(universities[:, 0] < bottom_right_gps_coord[0]) & (universities[:, 0] > top_left_gps_coord[0])
+    #              & (universities[:, 1] < top_left_gps_coord[1]) & (universities[:, 1] > bottom_right_gps_coord[1])]
+    # pd.DataFrame(universities).to_csv(r"C:\Users\sigla\Desktop\MasterWork\Universities.csv")
+    universities = pd.read_csv(r"C:\Users\sigla\Desktop\MasterWork\Universities.csv", index_col=0).values
     return universities
 
 
@@ -8142,10 +8229,35 @@ def get_closest_metro_stations_to_universities():
 
 
 def get_kindergartens():
-    kindergartens = read_osm(r'C:\Users\sigla\Desktop\MasterWork\osm\540.osm')
-    kindergartens[(kindergartens[:, 0] < bottom_right_gps_coord[0]) & (kindergartens[:, 0] > top_left_gps_coord[0])
-                  & (kindergartens[:, 1] < top_left_gps_coord[1]) & (kindergartens[:, 1] > bottom_right_gps_coord[1])]
+    # print('Kindergartens')
+    # kindergartens = read_osm(r'C:\Users\sigla\Desktop\MasterWork\osm\540.osm')
+    # kindergartens = kindergartens[(kindergartens[:, 0] < bottom_right_gps_coord[0]) & (kindergartens[:, 0] > top_left_gps_coord[0])
+    #               & (kindergartens[:, 1] < top_left_gps_coord[1]) & (kindergartens[:, 1] > bottom_right_gps_coord[1])]
+    # pd.DataFrame(kindergartens).to_csv(r"C:\Users\sigla\Desktop\MasterWork\Kindergartens.csv")
+    kindergartens = pd.read_csv(r"C:\Users\sigla\Desktop\MasterWork\Kindergartens.csv", index_col=0).values
+    kindergartens = kindergartens[
+        (kindergartens[:, 0] < bottom_right_gps_coord[0]) & (kindergartens[:, 0] > top_left_gps_coord[0])
+        & (kindergartens[:, 1] < top_left_gps_coord[1]) & (kindergartens[:, 1] > bottom_right_gps_coord[1])]
     return kindergartens
+
+
+def find_closest_kindergarten_to_each_home(current_okato):
+    home_coordinates = get_home_coordinates(current_okato)
+    kindergarten_coordinates = get_kindergartens()
+    kindergarten_indexes = []
+    for home in home_coordinates:
+        min_norm = 99999
+        k = 0
+        min_dist_index = 0
+        for kindergarten in kindergarten_coordinates:
+            n = get_distance_from_lat_lon(kindergarten[0], kindergarten[1], home[0], home[1])
+            #    np.sqrt((home[0] - coord[0])**2 + (home[1] - coord[1])**2)
+            if n < min_norm:
+                min_norm = n
+                min_dist_index = k
+            k += 1
+        kindergarten_indexes.append(min_dist_index)
+    return np.array(kindergarten_indexes)
 
 
 def find_closest_station_to_each_kindergarten():
@@ -8171,6 +8283,7 @@ def get_closest_metro_stations_to_kindergartens():
     return np.array(df).flatten()
 
 
+# find_closest_station_to_each_home()
 # find_closest_station_to_each_university()
 # find_closest_station_to_each_kindergarten()
 # find_closest_station_to_each_school()
@@ -8216,13 +8329,16 @@ def find_way(s, e):
 
 def way_for_each_station_to_csv():
     arr = []
-    for i in range(232):
-        for j in range(232):
+    for i in range(num_of_stations):
+        for j in range(num_of_stations):
             arr.append(find_way(i, j))
     b = open(r"C:\Users\sigla\Desktop\MasterWork\ShortestMetroPaths.csv", 'w', newline='')
     writer = csv.writer(b)
     writer.writerows(arr)
     b.close()
+
+
+# way_for_each_station_to_csv()
 
 
 def get_ways_for_metro_stations():
@@ -8235,25 +8351,16 @@ def get_ways_for_metro_stations():
     return res
 
 
-def find_boundary_coords():
+def find_boundary_coords(current_okato):
+    global top_left_gps_coord
+    global bottom_right_gps_coord
     max_x = 0
     max_y = 0
     min_x = 100
     min_y = 100
-    for okato, mun in municipalities.items():
-        if okato == 45268562000:
-            for parts in mun:
-                for coord in parts:
-                    if coord[0] > max_x:
-                        max_x = coord[0]
-                    if coord[0] < min_x:
-                        min_x = coord[0]
-                    if coord[1] > max_y:
-                        max_y = coord[1]
-                    if coord[1] < min_y:
-                        min_y = coord[1]
-        else:
-            for coord in mun:
+    if current_okato == 45268562000:
+        for parts in municipalities[current_okato]:
+            for coord in parts:
                 if coord[0] > max_x:
                     max_x = coord[0]
                 if coord[0] < min_x:
@@ -8262,7 +8369,41 @@ def find_boundary_coords():
                     max_y = coord[1]
                 if coord[1] < min_y:
                     min_y = coord[1]
+    else:
+        for coord in municipalities[current_okato]:
+            if coord[0] > max_x:
+                max_x = coord[0]
+            if coord[0] < min_x:
+                min_x = coord[0]
+            if coord[1] > max_y:
+                max_y = coord[1]
+            if coord[1] < min_y:
+                min_y = coord[1]
+    # for okato, mun in municipalities.items():
+    #     if okato == 45268562000:
+    #         for parts in mun:
+    #             for coord in parts:
+    #                 if coord[0] > max_x:
+    #                     max_x = coord[0]
+    #                 if coord[0] < min_x:
+    #                     min_x = coord[0]
+    #                 if coord[1] > max_y:
+    #                     max_y = coord[1]
+    #                 if coord[1] < min_y:
+    #                     min_y = coord[1]
+    #     else:
+    #         for coord in mun:
+    #             if coord[0] > max_x:
+    #                 max_x = coord[0]
+    #             if coord[0] < min_x:
+    #                 min_x = coord[0]
+    #             if coord[1] > max_y:
+    #                 max_y = coord[1]
+    #             if coord[1] < min_y:
+    #                 min_y = coord[1]
 
-    print(min_x, max_y, max_x, min_y)
+    top_left_gps_coord = [min_x, max_y]
+    bottom_right_gps_coord = [max_x, min_y]
+
 
 # find_boundary_coords()
